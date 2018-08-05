@@ -100,12 +100,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  name             : "NathanXLY"
+  avatar           : "/assets/images/dsd.jpg"
+  bio              : "欢迎来到我的blog"
+  location         : "GuangZhou-China"
+  email            : "nathan_xiao@yeah.net"
+  uri              : 
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
